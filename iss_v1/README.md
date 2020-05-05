@@ -1,4 +1,4 @@
 ISS TKL keyboard firmware
 =========================
-DIY TKL keyboard
+DIY TKL keyboard V1
 
