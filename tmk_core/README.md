@@ -1,5 +1,5 @@
-TMK Keyboard Firmware Core Library
-==================================
+TMK Keyboard Firmware Core Library Changes
+==========================================
 This is not a complete tmk keyboard firmware library.
 
 These are modifications needed to get the middle mouse button to work with a ps2 touchpad.
